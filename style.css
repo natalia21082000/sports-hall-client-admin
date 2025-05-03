@@ -1,0 +1,12 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card {
+    border: none;
+}
+
+.form-control:focus {
+    box-shadow: none;
+    border-color: #86b7fe;
+}
